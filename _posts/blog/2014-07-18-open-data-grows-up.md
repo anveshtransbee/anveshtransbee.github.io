@@ -19,7 +19,7 @@ You can read the whole thing as a [PDF](http://sfmayor.org/Modules/ShowDocument.
 
 ## Executive Summary
 
-San Francisco has been a leader in open data. As one of the first cities with an open data policy, we helped fuel a movement that has spread across the country and the world. Open data can serve as a platform to 1) change how we use, share and consume government data - externally and internally; 2) transform data into services; and 3) foster continuous improvement in decision-making and the business of government.
+Raleigh has been a leader in open data. As one of the first cities with an open data policy, we helped fuel a movement that has spread across the country and the world. Open data can serve as a platform to 1) change how we use, share and consume government data - externally and internally; 2) transform data into services; and 3) foster continuous improvement in decision-making and the business of government.
 
 ![Open Data- Theory of Change (1)]({{site.baseurl}}/assets/Open-Data-Theory-of-Change-1.png)</a>
 

@@ -7,9 +7,9 @@ author: joy_bonaguro
 image:
   thumb: housing-hub-screen.png
   feature: housing-hub-screen.png
-description: "Today we launched the Housing Data Hub - your go to resource to learn about housing programs in San Francisco and the data behind them. This is also the first of what we hope to be a series of strategic open data releases over time."
+description: "Today we launched the Housing Data Hub - your go to resource to learn about housing programs in Raleigh and the data behind them. This is also the first of what we hope to be a series of strategic open data releases over time."
 ---
-Today we launched the Housing Data Hub - your go to resource to learn about housing programs in San Francisco and the data behind them. Housing is a complex issue and it affects everyone in the City. However, there is not a lot of broadly shared knowledge about the existing portfolio of programs. The Hub puts all housing data in one place, visualizes it, and provides the program context.
+Today we launched the Housing Data Hub - your go to resource to learn about housing programs in Raleigh and the data behind them. Housing is a complex issue and it affects everyone in the City. However, there is not a lot of broadly shared knowledge about the existing portfolio of programs. The Hub puts all housing data in one place, visualizes it, and provides the program context.
 This is also the first of what we hope to be a series of strategic open data releases over time. Read more about that below or check out [the Hub](http://housing.datasf.org), which [took a village](http://housing.datasf.org/about/#acknowledgements) to create!
 
 ##Evolution of Open Data: Strategic Releases

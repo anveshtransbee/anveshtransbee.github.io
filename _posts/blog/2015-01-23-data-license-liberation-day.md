@@ -49,7 +49,7 @@ We also heard from companies that having no license is ambiguous and annoying.
 
 ### Learn more about our thinking
 
-*   [Licensing Open Data: Resources and Practices](https://docs.google.com/document/d/1nT4EF6C8so2Qv6Y61MMn2FH-IATrOymfk0Z9A3DvN6w/edit?usp=sharing) (gdoc). Research conducted by our intern (Peri Weisberg/rock star) on data licensing options available and considerations for deployment in San Francisco.
+*   [Licensing Open Data: Resources and Practices](https://docs.google.com/document/d/1nT4EF6C8so2Qv6Y61MMn2FH-IATrOymfk0Z9A3DvN6w/edit?usp=sharing) (gdoc). Research conducted by our intern (Peri Weisberg/rock star) on data licensing options available and considerations for deployment in Raleigh.
 *   [Licenses – Inventory](https://docs.google.com/spreadsheets/d/1gZHgJig0BYlKdpSDieUfY-9pS5B6Tn6l3azWM7twbPw/edit?usp=sharing) (gsheet). Inventory of available licenses we reviewed and licensing policies across cities and states.
 *   [Licensing Open Data: A practical guide](http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf) (PDF). Our favorite resource on licensing we uncovered during our research.
 
