@@ -1,0 +1,3 @@
+[submodule "lib/citydashboard"]
+	path = lib/citydashboard
+	url = https://github.com/adamajm/BI_tiles
