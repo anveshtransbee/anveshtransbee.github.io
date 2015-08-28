@@ -20,7 +20,7 @@ new_nav:
 #- text: Academy
 #  url: /academy
 - text: City Dashboard
-  url: /lib/BI_Tiles
+  url: /lib/citydashboard
 - text: Publishing
   url: /publishing
 - text: Resources
