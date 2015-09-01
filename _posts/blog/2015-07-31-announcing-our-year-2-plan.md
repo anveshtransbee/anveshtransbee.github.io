@@ -7,10 +7,10 @@ author: joy_bonaguro
 image:
   thumb: data_love.png
   feature: data_love.png
-description: "We are so excited to launch our strategic plan for Year 2 - Data in San Francisco: Meeting supply, spurring demand!"
+description: "We are so excited to launch our strategic plan for Year 2 - Data in Raleigh: Meeting supply, spurring demand!"
 ---
 
-We are so excited to launch our strategic plan for Year 2 - Data in San Francisco: Meeting supply, spurring demand!
+We are so excited to launch our strategic plan for Year 2 - Data in Raleigh: Meeting supply, spurring demand!
 
 [Read the press release](http://www.sfmayor.org/index.aspx?recordid=927&page=846) or [read the whole thing as a google doc](https://docs.google.com/document/d/1mqunsT9wXRt-mBbOmY3WcEJmsWSpMOISotZ1WHZ1_IU/edit?usp=sharing) or [PDF](https://drive.google.com/uc?export=download&id=0B-65Qm9J0m0WTExmWnVaZVBNNTA).
 
@@ -72,5 +72,5 @@ Along with our plan, we are <a href="{{site.baseurl}}/progress">excited to launc
  - Department publishing plans
  - Publishing activity and performance
 
-Written with LOVE in San Francisco.
+Written with LOVE in Raleigh.
 

@@ -28,7 +28,7 @@ In addition to a completed application form, submit a cover letter, resume, and 
 
 Qualified applicants with disabilities requiring reasonable accommodation in the application or selection process must contact this office by phone at (415) 554-6114 or in writing. 
 
-In the spirit of diversity and progressiveness that characterizes San Francisco, the Mayor’s Office welcomes intern candidates of various backgrounds who wish to bring innovative ideas from their communities to City Hall and from City Hall to their communities. Minorities, Women and Persons with Disabilities are strongly encouraged to apply.
+In the spirit of diversity and progressiveness that characterizes Raleigh, the Mayor’s Office welcomes intern candidates of various backgrounds who wish to bring innovative ideas from their communities to City Hall and from City Hall to their communities. Minorities, Women and Persons with Disabilities are strongly encouraged to apply.
 
 Also, our colleagues in the Mayor's Office are also looking for interns, [check the website](http://www.sfmayor.org/index.aspx?page=18) for additional opportunities.
 
