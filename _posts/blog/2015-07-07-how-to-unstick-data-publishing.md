@@ -15,10 +15,10 @@ image:
     author_link: "https://www.flickr.com/photos/wlodi/"
     license: CC BY-SA 2.0
     license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
-description: "In San Francisco, we have some data (sorry, I mean a lot of data). But sadly, there is no magical red publish button. So how to go about it? Priortize your data. We follow 4 key strategies."
+description: "In Raleigh, we have some data (sorry, I mean a lot of data). But sadly, there is no magical red publish button. So how to go about it? Priortize your data. We follow 4 key strategies."
 ---
 
-In San Francisco, we have some data [(sorry, I mean a lot of data)](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5). But sadly, there is no magical red publish button. So how to go about it? Priortize your data.
+In Raleigh, we have some data [(sorry, I mean a lot of data)](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5). But sadly, there is no magical red publish button. So how to go about it? Priortize your data.
 
 We follow 4 key strategies.
 

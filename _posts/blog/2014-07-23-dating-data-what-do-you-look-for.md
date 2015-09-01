@@ -35,7 +35,7 @@ In my metadata dreamworld:
 
 Our metadata (the data about our datasets) is more or less out of the box ([see an example for business registered in SF](https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn/about)). We have a handful of custom fields like Department and frequency, but we haven't sat down and really thought through what fields we should include (and require) and why. And we're inspired by metadata leadership from [Open New York](https://data.ny.gov/) and [Albuquerque](http://www.cabq.gov/abq-data).
 
-##How we're tackling metadata in San Francisco</h2>
+##How we're tackling metadata in Raleigh</h2>
 
 We've kicked off a working group to draft a metadata standard. The team includes some metadata experts, library scientists, and some of our biggest publishers on DataSF. Read our <a href="https://docs.google.com/document/d/1w5-zVPGanEw9ePL7KevAgYgnD2feaNCjpjQgqDL1fVY/edit?usp=sharing">project document with background/motivation/major steps</a>.
 
