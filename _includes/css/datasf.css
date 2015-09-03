@@ -378,15 +378,19 @@ a:active {
   margin: 0;
   border: none;
   background-color: #5784d5;
-  background: url('{{site.baseurl}}/img/Skyline1.png') top left no-repeat;
+
+  background-image: url('{{site.baseurl}}/img/Skyline1.png');
+  background-repeat: no-repeat;
+  background-position-x: center;
 }
 .navbar-mini .container {
   background: url('{{site.baseurl}}/img/City-Seal-BW.png') no-repeat;
   background-position: left 0 top -50px;
   background-position-x: 0;
   /*background-position-y: -50px;*/
-  background-position-y: 0px;
-  height: 88px;
+  
+  background-position-y: 50%;
+  height: 125px;
 }
 .navbar.navbar-mini li {
   vertical-align: top;
@@ -477,7 +481,7 @@ header .intro-text .intro-lead-in {
   line-height: 16px;
   color: #fff;
 
-  margin-top: 57px;
+  margin-top: 107px;
 }
 header .intro-text .intro-heading {
   margin-bottom: 25px;
