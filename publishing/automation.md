@@ -1,7 +1,7 @@
 ---
 layout: publishing
 permalink: /publishing/automation/
-title: DataSF | Publishing Automation
+title: OpenRaleigh | Publishing Automation
 section: publishing-guidelines
 toc: true
 js: publishing.js

@@ -24,7 +24,7 @@ defaults:
       sitemap: false
 
 # Site settings
-title: DataSF
+title: OpenRaleigh
 email: datasf@sfgov.org
 description: "Our mission is to enable use of the City and County of San Francisco's data. Our core product is SF OpenData, the official open data portal."
 locale: en_US
