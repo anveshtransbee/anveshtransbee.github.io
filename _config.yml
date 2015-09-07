@@ -86,11 +86,11 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/datasf
-  - title: stack-overflow
-    url: http://opendata.stackexchange.com/search?q=san+francisco
+    url: http://twitter.com/OpenRaleigh
+  # - title: stack-overflow
+  #   url: http://opendata.stackexchange.com/search?q=san+francisco
   - title: github 
-    url: http://github.com/datasf
+    url: http://github.com/CORaleigh/
 
 # Postal address (add as many lines as necessary)
 address:
