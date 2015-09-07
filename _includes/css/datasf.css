@@ -1235,8 +1235,9 @@ img.emoji {
   /*background-color: rgba(42.7%, 73.7%, 88.6%, .8);*/
   border-radius: 10px;
   text-align: center;
-  color: #222;
+  /*color: #222;*/
 
+  color: #ffffff;
   background-color: #243c7c;
 }
 .panel-featured:hover {
