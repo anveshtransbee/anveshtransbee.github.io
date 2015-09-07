@@ -69,6 +69,6 @@ $(document).scroll(function() {
     'padding': anchorPadding - padding + "px" + " 0"
   });
   $('.navbar-default').css({
-  	'background': 'linear-gradient(rgba(36,95,123,' + opac + '),rgba(36,95,123,' + opac + '))'
+  	'background': 'linear-gradient(rgb(51,51,51,' + opac + '),rgba(36,95,123,' + opac + '))'
   });
 });
