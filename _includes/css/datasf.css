@@ -142,7 +142,9 @@ article a {
   background-color: #222;
 }
 .bg-dark-blue {
-  background-color: #133140;
+  /*background-color: #133140;*/
+
+  background-color: #444444;
   color: #fff;
 }
 #header a,
@@ -374,15 +376,23 @@ a:active {
   position: relative;
   min-height: 32px;
   line-height: 32px;
-  background-color: #133140;
+  /*background-color: #133140;*/
   margin: 0;
   border: none;
+  background-color: #5784d5;
+
+  background-image: url('{{site.baseurl}}/img/Skyline1.png');
+  background-repeat: no-repeat;
+  background-position-x: center;
 }
 .navbar-mini .container {
   background: url('{{site.baseurl}}/img/City-Seal-BW.png') no-repeat;
   background-position: left 0 top -50px;
   background-position-x: 0;
-  background-position-y: -50px;
+  /*background-position-y: -50px;*/
+  
+  background-position-y: 50%;
+  height: 125px;
 }
 .navbar.navbar-mini li {
   vertical-align: top;
@@ -439,7 +449,9 @@ a:active {
   }
   .navbar-shrink .navbar-default {
     padding: 10px 0;
-    background-color: #245f7b;
+    /*background-color: #245f7b;*/
+
+    background: #333333!important;
   }
   .navbar-shrink .navbar-default .navbar-brand {
     font-size: 2.5em;
@@ -472,6 +484,8 @@ header .intro-text .intro-lead-in {
   font-style: normal;
   line-height: 16px;
   color: #fff;
+
+  margin-top: 94px;
 }
 header .intro-text .intro-heading {
   margin-bottom: 25px;
@@ -1190,7 +1204,9 @@ img.emoji {
   color: #fff !important;
 }
 .list-group-item-download {
-  background-color: #4D7487;
+  /*background-color: #4D7487;*/
+
+  background-color: #74b2bb;
   color: #fff;
 }
 .list-group-item-download:hover {
@@ -1201,7 +1217,9 @@ img.emoji {
   text-decoration: none;
 }
 .panel-default>.panel-heading {
-  background-color: #1A4154;
+  /*background-color: #1A4154;*/
+
+  background-color: #63979f;
   color: #eee;
 }
 .panel {
@@ -1214,10 +1232,13 @@ img.emoji {
 .panel-featured {
   /*background-color: #{{site.color.secondary}};*/
   
-  background-color: rgba(42.7%, 73.7%, 88.6%, .8);
+  /*background-color: rgba(42.7%, 73.7%, 88.6%, .8);*/
   border-radius: 10px;
   text-align: center;
-  color: #222;
+  /*color: #222;*/
+
+  color: #6dbce2;
+  background-color: #243c7c;
 }
 .panel-featured:hover {
   background-color: rgba(42.7%, 73.7%, 88.6%, 1);

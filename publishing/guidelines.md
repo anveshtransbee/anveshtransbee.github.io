@@ -1,7 +1,7 @@
 ---
 layout: publishing
 permalink: /publishing/guidelines/
-title: DataSF | Publishing Guidelines
+title: OpenRaleigh | Publishing Guidelines
 section: publishing-guidelines
 toc: true
 js: publishing.js
