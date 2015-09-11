@@ -32,18 +32,14 @@ jeff_johnson:
   email: jeff.johnson@sfgov.org
   bio: "GIS Servies Team"
   image: jeff_johnson.jpg
-  # linkedin: https://www.linkedin.com/pub/james-alberque/9/121/549
-
-  social:
-  - title: linkedin
-    url: https://www.linkedin.com/pub/james-alberque/9/121/549
+  linkedin: https://www.linkedin.com/pub/james-alberque/9/121/549
 
 sam_valdez:
   name: Spencer Smith
   title: "Integrations Services Team"
   long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
   image: sam_valdez.jpg
-  # linkedin: https://www.linkedin.com/in/spencerlsmith
+  linkedin: https://www.linkedin.com/in/spencerlsmith
 
 jason_lally:
   name: Chad Foley
@@ -55,6 +51,6 @@ jason_lally:
   # twitter: synchronouscity
   # google:
   #   plus: jasonlally
-  # linkedin: https://www.linkedin.com/in/chadfoley
+  linkedin: https://www.linkedin.com/in/chadfoley
 
 
