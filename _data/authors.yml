@@ -7,23 +7,23 @@ adam_martin:
   gravatar: fca76c4715df4170b72e95559e4c1b24
   twitter: openraleigh
 
-robert_richmond:
-  name: Robert Richmond
-  title: "Enterprise GIS Engineer"
-  long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
-  image: robert_richmond.jpg
-  linkedin: https://www.linkedin.com/pub/robert-richmond/78/193/876
+# robert_richmond:
+#   name: Robert Richmond
+#   title: "Enterprise GIS Engineer"
+#   long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
+#   image: robert_richmond.jpg
+#   linkedin: https://www.linkedin.com/pub/robert-richmond/78/193/876
 
-# jason_lally:
-#   name: Jason Lally
-#   title: "Open Data Program Manager"
-#   email: jason.lally@sfgov.org
-#   bio: "Open Data Program Manager, City and County of San Francisco"
-#   long_bio: "Jason Lally is the Open Data Program Manager, working  with the City’s Chief Data Officer, Joy Bonaguro, to help operationalize the City’s open data strategy. Jason comes to the City by way of a Mayor’s Innovation Fellowship that wrapped up in August 2014. Before that, he worked at the intersection of technology and urban planning as Director of the Decision Lab at PlaceMatters in Denver, CO. He came to open government and open data through his work in cities and regions across the country on data-informed, community planning processes. Recognizing a need for more robust information services and platforms to support strong community engagement, Jason is pleased to contribute to making data more accessible and useful at the City. Jason earned his Masters in City and Regional Planning from the University of Pennsylvania."
-#   gravatar: b0d79f25e915d34f7f06907322ad8060
-#   twitter: synchronouscity
-#   google:
-#     plus: jasonlally
+jason_lally:
+  name: Jason Lally
+  title: "Open Data Program Manager"
+  email: jason.lally@sfgov.org
+  bio: "Open Data Program Manager, City and County of San Francisco"
+  long_bio: "Jason Lally is the Open Data Program Manager, working  with the City’s Chief Data Officer, Joy Bonaguro, to help operationalize the City’s open data strategy. Jason comes to the City by way of a Mayor’s Innovation Fellowship that wrapped up in August 2014. Before that, he worked at the intersection of technology and urban planning as Director of the Decision Lab at PlaceMatters in Denver, CO. He came to open government and open data through his work in cities and regions across the country on data-informed, community planning processes. Recognizing a need for more robust information services and platforms to support strong community engagement, Jason is pleased to contribute to making data more accessible and useful at the City. Jason earned his Masters in City and Regional Planning from the University of Pennsylvania."
+  gravatar: b0d79f25e915d34f7f06907322ad8060
+  twitter: synchronouscity
+  google:
+    plus: jasonlally
 
 jeff_johnson:
   name: Jeff Johnson
