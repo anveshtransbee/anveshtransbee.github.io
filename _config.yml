@@ -126,7 +126,7 @@ prose:
         field:
           element: "select"
           label: "Author"
-          options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback
+          options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback  
       - name: "thumbnail"
         field:
           element: "text"
