@@ -1243,7 +1243,7 @@ img.emoji {
 .panel-featured:hover {
   /*background-color: rgba(42.7%, 73.7%, 88.6%, 1);*/
   background-color: #243c7c;
-  opacity: 0.6;
+  opacity: 1;
 }
 
 .task-date {
