@@ -1241,7 +1241,7 @@ img.emoji {
   background-color: #243c7c;
 }
 .panel-featured:hover {
-  /*background-color: rgba(42.7%, 73.7%, 88.6%, 1);*/
+  background-color: rgba(42.7%, 73.7%, 88.6%, .3);
 }
 
 .task-date {
