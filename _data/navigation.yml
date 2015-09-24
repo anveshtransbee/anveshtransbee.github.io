@@ -1,0 +1,35 @@
+temp_nav:
+- text: Data Catalog
+  url: https://data.raleighnc.gov
+  class: ext-sf-opendata
+#- text: Showcase
+#  url: /showcase
+- text: Data Academy
+  url: /academy
+- text: Resources
+  url: /resources
+- text: About
+  url: /about
+
+new_nav:
+- text: Data Catalog
+  url: https://data.raleighnc.gov
+  class: ext-sf-opendata
+#- text: Showcase
+#  url: /showcase
+#- text: Academy
+#  url: /academy
+- text: Publishing
+  url: /publishing
+- text: Resources
+  url: /resources
+- text: Blog
+  url: /blog
+  
+utility:
+- text: RaleighGov
+  url: https://www.raleighnc.org/open
+- text: Coordinator's Portal
+  url: /coordinators
+- text: About
+  url: /about
