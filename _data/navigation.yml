@@ -19,8 +19,6 @@ new_nav:
 #  url: /showcase
 #- text: Academy
 #  url: /academy
-- text: City Dashboard
-  url: /lib/citydashboard
 - text: Publishing
   url: /publishing
 - text: Resources
@@ -35,4 +33,3 @@ utility:
   url: /coordinators
 - text: About
   url: /about
-      
