@@ -1239,9 +1239,12 @@ img.emoji {
 
   color: #6dbce2;
   background-color: #243c7c;
+  opacity: 0.8;
 }
 .panel-featured:hover {
-  background-color: rgba(42.7%, 73.7%, 88.6%, 1);
+  /*background-color: rgba(42.7%, 73.7%, 88.6%, 1);*/
+  background-color: #243c7c;
+  opacity: 1;
 }
 
 .task-date {
